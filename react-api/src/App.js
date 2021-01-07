@@ -31,7 +31,7 @@ class App extends React.Component {
 
     render() {
         const { advice } = this.state;
-
+        //remove this after commit
         return (
             <h1>{advice}</h1>
         );
